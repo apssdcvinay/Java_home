@@ -4,7 +4,7 @@ count=1
 while [ $valid ]
 do
 echo $count
-if [ $count -eq 10 ];
+if [ $count -eq 12 ];
 then
 break
 fi
